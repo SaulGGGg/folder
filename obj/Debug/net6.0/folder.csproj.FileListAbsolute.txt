@@ -1,0 +1,15 @@
+/Users/romapiunov/Desktop/folder/bin/Debug/net6.0/folder
+/Users/romapiunov/Desktop/folder/bin/Debug/net6.0/folder.deps.json
+/Users/romapiunov/Desktop/folder/bin/Debug/net6.0/folder.runtimeconfig.json
+/Users/romapiunov/Desktop/folder/bin/Debug/net6.0/folder.dll
+/Users/romapiunov/Desktop/folder/bin/Debug/net6.0/folder.pdb
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.csproj.AssemblyReference.cache
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.AssemblyInfoInputs.cache
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.AssemblyInfo.cs
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.csproj.CoreCompileInputs.cache
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.dll
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/refint/folder.dll
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.pdb
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/folder.genruntimeconfig.cache
+/Users/romapiunov/Desktop/folder/obj/Debug/net6.0/ref/folder.dll
